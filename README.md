@@ -5,4 +5,4 @@ For those who don't know it's a simple game where you have to keep a ball from t
 
 This is a simple version so this is bare minimum you can do in a breakout game.
 
-
+![breakout](https://github.com/batgit39/Day86-Breakout-Game/assets/86790253/6436befd-42f1-447e-ad2f-693dbac89b1f)
